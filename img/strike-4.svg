@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<svg width="577.78485" height="578.97675" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" version="1.0">
+ <defs>
+  <path d="m208.54,113.37a22.33,26.75 0 1 1 -34.04,29.54" id="a" stroke-width="1.6"/>
+  <path d="m216.24,120.81a24.02,27.39 0 1 1 -42.16,3.33" id="b" stroke-width="1.6"/>
+  <path d="m173.48,125.77a24.02,27.39 0 0 1 42.99,-4.53" id="c" stroke-width="1.6"/>
+  <path d="m218.87,143.62a24.02,27.39 0 1 1 -35.09,-31.78" id="d" stroke-width="1.6"/>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="svg_1">
+   <rect height="297.5" id="svg_2" rx="36.48" ry="36.48" width="299.18" x="137.7" y="223.99"/>
+   <rect fill="#fff" height="214.91" id="svg_3" width="216.17" x="179.84" y="265.71"/>
+   <path d="m218.55,294.69a13.91,14.33 0 1 1 -0.04,0.03l7.04,12.35l-7,-12.38z" id="svg_20"/>
+   <rect height="69.95" id="svg_21" ry="8.43" width="62.79" x="193.95" y="325.19"/>
+   <rect height="89.76" id="svg_22" ry="9.06" width="18.12" x="205.74" y="384.19"/>
+   <rect height="89.76" id="svg_23" ry="9.06" width="18.12" x="226.91" y="384.37"/>
+   <path d="m284.6,294.67a13.91,14.33 0 1 1 -0.04,0.02l7.04,12.36l-7,-12.38z" id="svg_24"/>
+   <rect height="69.95" id="svg_25" ry="8.43" width="62.79" x="260.2" y="325.17"/>
+   <rect height="89.76" id="svg_26" ry="9.06" width="18.12" x="271.58" y="384.37"/>
+   <rect height="89.76" id="svg_27" ry="9.06" width="18.12" x="292.65" y="384.37"/>
+   <path d="m350.76,294.67a13.91,14.33 0 1 1 -0.04,0.02l7.04,12.36l-7,-12.38z" id="svg_28"/>
+   <rect height="69.95" id="svg_29" ry="8.43" transform="matrix(1 0 0 1 0 0)" width="62.79" x="325.94" y="325.17"/>
+   <rect height="89.76" id="svg_30" ry="9.06" width="18.12" x="337.74" y="383.95"/>
+   <rect height="89.76" id="svg_31" ry="9.06" transform="matrix(1 0 0 1 0 0)" width="18.12" x="358.81" y="384.37"/>
+  </g>
+  <rect fill="#000000" height="153" id="svg_32" transform="matrix(1 0 0 1 0 0)" width="29" x="274.98" y="71.55"/>
+  <rect fill="#000000" height="153" id="svg_33" transform="matrix(1 0 0 1 0 0)" width="29" x="318.98" y="71.55"/>
+ </g>
+</svg>

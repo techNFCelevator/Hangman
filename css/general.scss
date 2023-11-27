@@ -1,0 +1,52 @@
+$font-fam: 'Nunito Sans', sans-serif;
+$textColor: navy;
+@mixin key-spec($numPerRow){
+    width: calc(100%/$numPerRow);
+}
+html{
+    background-color: aliceblue;
+    box-sizing: border-box;
+    color: $textColor;
+    font-family: $font-fam;
+    margin: auto;
+    max-width: 1920px;
+}
+*,*:after,*:before{
+    box-sizing: inherit;
+}
+button{
+    background-color: chartreuse;
+    border: darkgreen solid 1px;
+    color: $textColor;
+    font-family: $font-fam;
+}
+button:disabled{
+    background-color: red;
+    border-color: maroon;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+}
+#correct_letters{
+    letter-spacing: 0.5em;
+}
+#keyboard{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#keyboard button:nth-child(n+1):nth-child(-n+10){
+    @include key-spec(10);
+}
+#keyboard button:nth-child(n+11):nth-child(-n+19){
+    @include key-spec(9);
+}
+#keyboard button:nth-child(n+20):nth-child(-n+26){
+    @include key-spec(7);
+}
+#wrong_answers{
+    display: flex;
+    justify-content: center;
+}

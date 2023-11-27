@@ -1,0 +1,50 @@
+[
+    {
+        "answer":"FeliCa",
+        "hint":"Sony"
+    },
+    {
+        "answer":"Calypso",
+        "hint":"NFC-B"
+    },
+    {
+        "answer":"MIFARE",
+        "hint":"NXP"
+    },
+    {
+        "answer":"Near Field Communication",
+        "hint":"Tap"
+    },
+    {
+        "answer":"EMV",
+        "hint":"Contact and Contactless chip card"
+    },
+    {
+        "answer":"Linear Induction Motor",
+        "hint":"LIM"
+    },
+    {
+        "answer":"Hydraulic",
+        "hint":"Fluid-driven"
+    },
+    {
+        "answer":"Traction",
+        "hint":"Cable-driven"
+    },
+    {
+        "answer":"Car Operating Panel",
+        "hint":"COP"
+    },
+    {
+        "answer":"Hall Operating Panel",
+        "hint":"HOP"
+    },
+    {
+        "answer":"Forcing rod",
+        "hint":"Articulated barrier gate's high-compression link"
+    },
+    {
+        "answer":"License Plate Recognition",
+        "hint":"LPR"
+    }
+]

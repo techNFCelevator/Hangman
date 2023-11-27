@@ -1,0 +1,57 @@
+html {
+  background-color: aliceblue;
+  box-sizing: border-box;
+  color: navy;
+  font-family: "Nunito Sans", sans-serif;
+  margin: auto;
+  max-width: 1920px;
+}
+
+*, *:after, *:before {
+  box-sizing: inherit;
+}
+
+button {
+  background-color: chartreuse;
+  border: darkgreen solid 1px;
+  color: navy;
+  font-family: "Nunito Sans", sans-serif;
+}
+
+button:disabled {
+  background-color: red;
+  border-color: maroon;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+}
+
+#correct_letters {
+  letter-spacing: 0.5em;
+}
+
+#keyboard {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+#keyboard button:nth-child(n+1):nth-child(-n+10) {
+  width: 10%;
+}
+
+#keyboard button:nth-child(n+11):nth-child(-n+19) {
+  width: 11.1111111111%;
+}
+
+#keyboard button:nth-child(n+20):nth-child(-n+26) {
+  width: 14.2857142857%;
+}
+
+#wrong_answers {
+  display: flex;
+  justify-content: center;
+}
